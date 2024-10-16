@@ -4,3 +4,5 @@
 *.swp
 .zed
 __pycache__
+101_ObjectCategories/
+*.gz
