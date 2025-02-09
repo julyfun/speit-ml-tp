@@ -17,3 +17,13 @@ UCI_HAR
 my_dir
 *.zip
 *.pkl
+/data_CIFAR*
+/dataset
+/lightning_logs
+/pth
+/pytorch-vision*
+/saved_models*
+/stl10_binary
+/tiny-imagenet-200
+*.ckpt
+*.pth
